@@ -24,7 +24,5 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinsadaca&show_icons=true&locale=en" alt="agustinsadaca" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinsadaca&" alt="agustinsadaca" /></p>
 

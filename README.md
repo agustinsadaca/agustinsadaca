@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **agustinsadaca@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1hbwIeZo5_nm2616WAcQF2pYwlInd_1cc/view?usp=sharing](https://drive.google.com/file/d/1hbwIeZo5_nm2616WAcQF2pYwlInd_1cc/view?usp=sharing)](https://drive.google.com/drive/folders/11CMuCXhfpSCQVT-ozvO2a_zRnVJ8g-Pe?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hbwIeZo5_nm2616WAcQF2pYwlInd_1cc/view?usp=sharing](https://drive.google.com/file/d/1hbwIeZo5_nm2616WAcQF2pYwlInd_1cc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
